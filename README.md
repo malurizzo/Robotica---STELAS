@@ -86,6 +86,11 @@ Esse sistema pode ser utilizado em diversos ambientes, tais como:
 
 Além de proporcionar comodidade, o sistema contribui para a redução do desperdício de energia elétrica.
 
+## Acesso ao projeto:
+
+Por meio do link abaixo, você poderá acessar ao link do tinkercad uma simulação do projeto na prática:
+https://www.tinkercad.com/things/lg3TrbOJ4sT-projeto-final-1-pt1/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=sV6vvn3Lu8r9bEZGU1cBtcT12XWHhtcKDxz5pGba4rs
+
 ---
 
 ##  Resultados Esperados
